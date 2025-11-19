@@ -11,7 +11,7 @@ All analysis was performed using **SQL queries** executed in **Google BigQuery**
 
 ---
 
-## ### 📊 What I Did
+### 📊 What I Did
 - Explored and validated the `gwz_sales` dataset  
 - Computed global KPIs (orders, customers, products, turnover, purchase cost, quantity)  
 - Ranked `category_1` groups by total turnover  
